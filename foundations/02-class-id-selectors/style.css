@@ -1,0 +1,23 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.odd-number {
+    background-color: palevioletred;
+    font-size: 18pt;
+}
+
+#number-2 {
+    color: blue;
+    font-size: 32pt;
+}
+
+#number-3 {
+    font-size: 24pt;
+}
+
+#number-4 {
+    font-size: 22pt;
+    font-weight: bold;
+    background-color: lime;
+}
